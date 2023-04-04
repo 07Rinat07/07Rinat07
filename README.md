@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rinat</h1>
-<h3 align="center">A Passionate web developer from Kazakhstan</h3>
+<h3 align="center"> Web developer from Kazakhstan</h3>
 
 ### About me
 - 🌱 Now I'm studying **English, as well as programming**. 
