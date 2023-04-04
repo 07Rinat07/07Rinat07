@@ -22,8 +22,8 @@
 - 👨‍💻 All of my projects are available at [https://myportfolio.a07.kz/](https://myportfolio.a07.kz/)
 
 
-<h3 align="left">Connect with me:  ura07srr@gmail.com or rinat-sarm@mail.ru</h3>
-
+<h3 align="left">Connect with me:  ura07srr@gmail.com</h3>
+rinat-sarm@mail.ru
 <p align="left">
 </p>
 
