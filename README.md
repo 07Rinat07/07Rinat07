@@ -53,5 +53,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=07rinat07&" alt="07rinat07" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/07Rinat07&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=07Rinat07&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=07Rinat07&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=07Rinat07&theme=default)
