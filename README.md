@@ -8,8 +8,8 @@
 - 📝Passionate about modern technology
 - 📄 Link to my portfolio ([cv-link](https://myportfolio.a07.kz/))
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=07rinat07&label=Profile%20views&color=0e75b6&style=flat" alt="07rinat07" /> </p>
+
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=07rinat07&label=Profile%20views&color=0e75b6&style=flat" alt="07rinat07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07rinat07" alt="07rinat07" /></a> </p>
 
