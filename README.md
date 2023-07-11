@@ -49,7 +49,7 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
 </div>
 
-### Stats --->
+### Stats ->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=07rinat07&" alt="07rinat07" /></p>
 
