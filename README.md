@@ -5,8 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=1080&height=160&lines=I+welcome+everyone!+My+name+is+Rinat.+;I+am+engaged+in+web+development+of+back-end+applications+and;websites+and+a+little+front-end." alt="Typing SVG" /></a>
 ### About me
 - 🌱 Now I'm studying **English, as well as programming**. 
-- 📝Passionate about modern technology
-- 📄 Link to my portfolio ([cv-link](https://myportfolio.a07.kz/))
 
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=07rinat07&label=Profile%20views&color=0e75b6&style=flat" alt="07rinat07" /> </p>
