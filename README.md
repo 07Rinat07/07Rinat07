@@ -13,7 +13,6 @@
 
 - 🔭 I’m currently working on **project**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio.a07.kz/](https://myportfolio.a07.kz/)
 
 
 
