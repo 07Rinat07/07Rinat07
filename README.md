@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=07rinat07" alt="07rinat07" /></a> </p>
 
-- 🔭 I’m currently working on **project**
+- I’m currently working on **project**
 
 
 
