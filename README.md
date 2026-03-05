@@ -2,46 +2,161 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=1080&height=160&lines=I+welcome+everyone!+My+name+is+Rinat.+;I+am+engaged+in+web+development+of+back-end+applications+and;websites+and+a+little+front-end." alt="Typing SVG" /></a>
-### About me
-- 🌱 Now I'm studying **English, as well as programming**. 
+<div align="center">
 
+# Hi 👋 I'm Rinat Sarmuldin
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=07rinat07&label=Profile%20views&color=0e75b6&style=flat" alt="07rinat07" /> </p>
+### PHP Backend Developer
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=07rinat07" alt="07rinat07" /></a> </p>
-
-
-
-<p align="left">
-</p>
-
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>   
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>
 
-<br clear="both">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Welcome+to+my+GitHub+profile!;PHP+Backend+Developer;Laravel+%7C+Symfony+%7C+REST+API+Developer" alt="Typing SVG" />
+</a>
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=07rinat07&" alt="07rinat07" /></p>
+# 👨‍💻 About Me
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=07Rinat07&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=07Rinat07&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=07Rinat07&theme=default)
+I am a **PHP Backend Developer** from **Uralsk, Kazakhstan**.
+
+I have been studying **web development since 2022** and actively building backend applications using modern PHP frameworks.
+
+My main areas of interest:
+
+- Backend development with **PHP**
+- Building **REST APIs**
+- Web application architecture
+- Database design and management
+
+I develop **pet projects using MVC architecture**, implement authentication systems, work with APIs, and manage data with relational databases.
+
+Currently looking for my **first commercial developer position or internship** where I can gain real-world development experience.
+
+---
+
+# 🚀 Featured Projects
+
+### Social Network (Laravel + Vue)
+
+Fullstack social network web application.
+
+Features:
+
+- user authentication
+- post creation
+- comments system
+- REST API interaction
+- MySQL database
+
+🔗  
+https://github.com/07Rinat07/social-network
+
+---
+
+### Inventory Management System (Symfony)
+
+Backend system for inventory management.
+
+Features:
+
+- user roles and permissions
+- CRUD operations
+- PostgreSQL database
+- Doctrine ORM
+
+🔗  
+https://github.com/07Rinat07/inventory-app-DEMO
+
+---
+
+### JavaScript Shop
+
+Simple e-commerce shop interface built with JavaScript.
+
+Features:
+
+- product catalog
+- add products to cart
+- dynamic UI updates
+- DOM manipulation
+- basic frontend store logic
+
+Technologies:
+
+- JavaScript
+- HTML
+- CSS
+
+🔗  
+https://github.com/07Rinat07/JavaScript-Shop
+
+---
+
+### REST API Project
+
+Training project focused on REST API development.
+
+Features:
+
+- API endpoints
+- HTTP request handling
+- API testing using Postman
+
+🔗  
+https://github.com/07Rinat07/rest-api
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" />
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=07Rinat07&show_icons=true&theme=dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=07Rinat07" />
+
+</p>
+
+<p align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=07Rinat07&theme=default)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=07Rinat07&theme=default)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=07Rinat07&theme=default)
+
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 Email: ura07srr@gmail.com  
+💬 Telegram: @develop_srr  
+
+📍 Uralsk, Kazakhstan
