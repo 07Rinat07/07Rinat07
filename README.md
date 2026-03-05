@@ -6,7 +6,7 @@
 
 # Hi 👋 I'm Rinat Sarmuldin
 
-### PHP Backend Developer
+
 
 </div>
 
