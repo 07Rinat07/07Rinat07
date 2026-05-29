@@ -1,81 +1,90 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e3a8a,50:0284c7,100:22d3ee&text=Rinat%20Sarmuldin&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PHP%20Backend%20Developer&descAlignY=58" alt="Header" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="560" alt="Developer coding" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&center=true&vCenter=true&width=760&lines=Building+reliable+backend+systems;Laravel+%7C+Symfony+%7C+Yii2+%7C+REST+API;Architecture,+security,+and+clean+code" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Location-Uralsk,%20Kazakhstan-1d4ed8?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-PHP%20Backend-0369a1?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Building%20real%20projects-0891b2?style=for-the-badge" alt="Status" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:0369a1,100:14b8a6&text=Rinat%20Sarmuldin&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PHP-focused%20Fullstack%20Developer&descAlignY=58" alt="Rinat Sarmuldin header" />
 </div>
 
 <div align="center">
   <a href="#featured-projects">
-    <img src="https://img.shields.io/badge/View-Projects-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-  </a>
-  <a href="#contact">
-    <img src="https://img.shields.io/badge/Go%20to-Contact-0ea5e9?style=for-the-badge&logo=mailboxdotorg&logoColor=white" alt="Contact" />
-  </a>
-  <a href="https://t.me/develop_srr">
-    <img src="https://img.shields.io/badge/Telegram-@develop__srr-1d9bf0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Portfolio-Featured%20Projects-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Featured projects" />
   </a>
   <a href="mailto:ura07srr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Write%20me-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ura07srr%40gmail.com-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://t.me/develop_srr">
+    <img src="https://img.shields.io/badge/Telegram-@develop__srr-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&center=true&vCenter=true&width=780&lines=Laravel+%7C+Symfony+%7C+Yii2+%7C+Bitrix;REST+APIs,+admin+panels,+databases,+integrations;Reliable+web+systems+from+code+to+deployment" alt="Typing intro" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-Backend developer focused on building maintainable web systems.
+I am a PHP-focused fullstack developer from Uralsk, Kazakhstan, with 4+ years of commercial experience in web development, site maintenance, backend logic, databases, integrations, and hosting support.
 
-- Main stack: **Laravel, Symfony, Yii2, REST API**
-- Strong focus on **architecture, security, testing, and integrations**
-- Building full projects from domain logic to deployment-ready environments
+My strongest area is backend development: application logic, SQL/database work, REST APIs, admin panels, debugging, and deployment-ready environments. I also understand the full web project lifecycle, from frontend forms and content pages to server setup, HTTPS, backups, and production fixes.
 
----
+## Professional Snapshot
 
-<a id="featured-projects"></a>
-## 🚀 Featured Projects
+| Area | Details |
+| --- | --- |
+| Commercial experience | Web Developer at IP KazDosnet, Sep 2021 - Dec 2025 |
+| Core focus | PHP backend, fullstack web development, site maintenance, integrations |
+| Main frameworks | Laravel, Symfony, Yii2, Bitrix |
+| Databases | MySQL, PostgreSQL, SQL queries, schema-aware debugging |
+| Infrastructure | Linux, Nginx, Docker, Docker Compose, FTP/SSH, domains, HTTPS/SSL |
+| Languages | Kazakh - native, Russian - C2, English - B2 |
+| Work format | Remote, on-site, full-time |
+
+## What I Work With
 
 <div align="center">
-  <sub><b>Click any project title</b> or the <b>Open Repository</b> button to jump straight to the GitHub repo.</sub>
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,js,nodejs,vue,react,mysql,postgres,docker,git,nginx,linux,python&perline=7" alt="Tech stack icons" />
 </div>
 
 <br />
 
+| Backend | Frontend | Databases | DevOps / Tools |
+| --- | --- | --- | --- |
+| PHP, Laravel, Symfony, Yii2, Bitrix | HTML, CSS, JavaScript, Vue, React, Nuxt | MySQL, PostgreSQL, SQL | Git, Docker, Docker Compose, Linux, Nginx, SSH |
+| REST API, API Platform, integrations | Forms, pages, admin UI, client-side logic | Query debugging, migrations, data output | HTTPS/SSL, hosting, backups, environment setup |
+
+## Practical Experience
+
+- Developed and maintained PHP-based websites, monolithic applications, admin panels, forms, and custom modules.
+- Fixed bugs in PHP, HTML/CSS/JavaScript, SQL queries, data output, authorization flows, and admin sections.
+- Built and connected API integrations between websites, services, and separate functional modules.
+- Checked changes through manual regression scenarios: forms, authorization, admin panels, page rendering, database flows, and integrations.
+- Used logs, SQL queries, recent code changes, and server settings to diagnose issues and release hotfixes.
+- Worked with Git-based review flow: submitted changes, addressed comments, and refined tasks after review.
+- Supported hosting tasks: FTP/SSH deployment, domains, HTTPS/SSL, backups, availability checks, and basic environment configuration.
+
+<a id="featured-projects"></a>
+
+## Featured Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/07Rinat07/social-network"><strong>Solid Social Network &#8599;</strong></a><br />
-      <sub>Project title is clickable</sub>
-      <p>Social platform with feed, realtime chat, IPTV/radio, and analytics dashboard.</p>
+      <a href="https://github.com/07Rinat07/social-network"><strong>Solid Social Network</strong></a>
+      <p>Social platform with feed, realtime chat, IPTV/radio features, and analytics dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-10-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 10" />
         <img src="https://img.shields.io/badge/Vue-3.5-42b883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3.5" />
         <img src="https://img.shields.io/badge/MySQL-8.4-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8.4" />
-        <img src="https://img.shields.io/badge/Reverb-1.7-0f172a?style=flat-square&logo=laravel&logoColor=white" alt="Reverb 1.7" />
+        <img src="https://img.shields.io/badge/Reverb-1.7-0f172a?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Reverb" />
       </p>
       <p>
         <a href="https://github.com/07Rinat07/social-network">
-          <img src="https://img.shields.io/badge/Open%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open Repository" />
+          <img src="https://img.shields.io/badge/Open%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open repository" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/07Rinat07/inventory-app-DEMO"><strong>Inventory Management System &#8599;</strong></a><br />
-      <sub>Project title is clickable</sub>
-      <p>ACL-based inventory platform with custom fields, admin workflows, and REST API.</p>
+      <a href="https://github.com/07Rinat07/inventory-app-DEMO"><strong>Inventory Management System</strong></a>
+      <p>Inventory platform with ACL, custom fields, admin workflows, and REST API architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/Symfony-6.4-111111?style=flat-square&logo=symfony&logoColor=white" alt="Symfony 6.4" />
         <img src="https://img.shields.io/badge/API%20Platform-4.2-0a0a0a?style=flat-square&logo=apiplatform&logoColor=white" alt="API Platform 4.2" />
@@ -84,31 +93,14 @@ Backend developer focused on building maintainable web systems.
       </p>
       <p>
         <a href="https://github.com/07Rinat07/inventory-app-DEMO">
-          <img src="https://img.shields.io/badge/Open%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open Repository" />
+          <img src="https://img.shields.io/badge/Open%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open repository" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/07Rinat07/JavaScript-Shop"><strong>JavaScript Shop &#8599;</strong></a><br />
-      <sub>Project title is clickable</sub>
-      <p>E-commerce app with catalog, payments, admin content APIs, and feedback flow.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-20%2B-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js 20+" />
-        <img src="https://img.shields.io/badge/Express-5.2-000000?style=flat-square&logo=express&logoColor=white" alt="Express 5.2" />
-        <img src="https://img.shields.io/badge/React-19.2-61dafb?style=flat-square&logo=react&logoColor=0b1220" alt="React 19.2" />
-        <img src="https://img.shields.io/badge/PostgreSQL-16-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL 16" />
-      </p>
-      <p>
-        <a href="https://github.com/07Rinat07/JavaScript-Shop">
-          <img src="https://img.shields.io/badge/Open%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open Repository" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/07Rinat07/internetMyShop"><strong>internetMyShop &#8599;</strong></a><br />
-      <sub>Project title is clickable</sub>
+      <a href="https://github.com/07Rinat07/internetMyShop"><strong>internetMyShop</strong></a>
       <p>E-commerce platform with Blade storefront, Nuxt frontend, MoonShine admin panel, and versioned REST API.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12" />
@@ -118,16 +110,30 @@ Backend developer focused on building maintainable web systems.
       </p>
       <p>
         <a href="https://github.com/07Rinat07/internetMyShop">
-          <img src="https://img.shields.io/badge/Open%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open Repository" />
+          <img src="https://img.shields.io/badge/Open%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open repository" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/07Rinat07/JavaScript-Shop"><strong>JavaScript Shop</strong></a>
+      <p>E-commerce app with catalog, payments, admin content APIs, and feedback flow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-20%2B-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js 20+" />
+        <img src="https://img.shields.io/badge/Express-5.2-000000?style=flat-square&logo=express&logoColor=white" alt="Express 5.2" />
+        <img src="https://img.shields.io/badge/React-19.2-61dafb?style=flat-square&logo=react&logoColor=0b1220" alt="React 19.2" />
+        <img src="https://img.shields.io/badge/PostgreSQL-16-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL 16" />
+      </p>
+      <p>
+        <a href="https://github.com/07Rinat07/JavaScript-Shop">
+          <img src="https://img.shields.io/badge/Open%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open repository" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://github.com/07Rinat07/myblog"><strong>MyBlog &#8599;</strong></a><br />
-      <sub>Project title is clickable</sub>
-      <p>Blog platform with admin panel, API v1, webhook processing, and a deployment-ready Docker workflow.</p>
+      <a href="https://github.com/07Rinat07/myblog"><strong>MyBlog</strong></a>
+      <p>Blog platform with admin panel, API v1, webhook processing, and Docker-based development workflow.</p>
       <p>
         <img src="https://img.shields.io/badge/Yii2-2.0.54-40B3D8?style=flat-square&logo=yii&logoColor=white" alt="Yii2 2.0.54" />
         <img src="https://img.shields.io/badge/PHP-8.3-777bb4?style=flat-square&logo=php&logoColor=white" alt="PHP 8.3" />
@@ -136,45 +142,38 @@ Backend developer focused on building maintainable web systems.
       </p>
       <p>
         <a href="https://github.com/07Rinat07/myblog">
-          <img src="https://img.shields.io/badge/Open%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open Repository" />
+          <img src="https://img.shields.io/badge/Open%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open repository" />
         </a>
       </p>
     </td>
   </tr>
 </table>
 
----
+## Education & Learning
 
-## 🛠 Tech Stack
+| Year | Program |
+| --- | --- |
+| 2026 | Bachelor degree, Information Technology, Computing and Software, Kazakhstan University of Innovation and Telecommunication Systems |
+| 2026 | iTransition, Commercial Software Development - PHP training program |
+| 2024 | Linux Operation and DevOps basics |
+| 2023 | Laravel 10 for REST APIs |
+| 2023 | Bitrix Framework Developer certificate |
+| 2023 | Git and GitHub basics |
+| 2023 | WebCademy: frontend development and PHP website development |
+| 2022 | Docker course, practical SQL course |
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,js,nodejs,vue,react,mysql,postgres,docker,git,nginx,linux&perline=7" alt="Tech stack" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=07Rinat07&theme=tokyonight" alt="GitHub profile summary" />
 </div>
-
-<div align="center">
-  <sub>Also working with Yii2, API Platform, Codeception, PHPUnit</sub>
-</div>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=07Rinat07&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=07Rinat07&theme=tokyonight" alt="Most used languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=07Rinat07&theme=tokyonight" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=07Rinat07&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
----
-
-<a id="contact"></a>
-## 📫 Contact
+## Contact
 
 <div align="center">
   <a href="mailto:ura07srr@gmail.com">
@@ -182,6 +181,9 @@ Backend developer focused on building maintainable web systems.
   </a>
   <a href="https://t.me/develop_srr">
     <img src="https://img.shields.io/badge/Telegram-@develop__srr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://github.com/07Rinat07">
+    <img src="https://img.shields.io/badge/GitHub-07Rinat07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
