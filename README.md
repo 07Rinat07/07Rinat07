@@ -22,7 +22,12 @@
 
 ## About
 
-I am a PHP-focused fullstack developer from Uralsk, Kazakhstan, with 4+ years of commercial experience in web development, site maintenance, backend logic, databases, integrations, and hosting support.
+<div align="center">
+  <h2>Backend-first PHP developer for business applications</h2>
+  <p><strong>4+ years delivering Laravel, Symfony, Yii2 and backend support with clean APIs, SQL expertise and production maintenance.</strong></p>
+</div>
+
+I am a PHP-focused fullstack developer from Uralsk, Kazakhstan, with commercial experience in web development, site maintenance, backend logic, databases, integrations, and hosting support.
 
 My strongest area is backend development: application logic, SQL/database work, REST APIs, admin panels, debugging, and deployment-ready environments. I also understand the full web project lifecycle, from frontend forms and content pages to server setup, HTTPS, backups, and production fixes.
 
@@ -35,7 +40,7 @@ My strongest area is backend development: application logic, SQL/database work, 
 | Main frameworks | Laravel, Symfony, Yii2, Bitrix |
 | Databases | MySQL, PostgreSQL, SQL queries, schema-aware debugging |
 | Infrastructure | Linux, Nginx, Docker, Docker Compose, FTP/SSH, domains, HTTPS/SSL |
-| Languages | Kazakh - native, Russian - C2, English - B2 |
+| Languages | Kazakh - native, Russian - C2, English - B1 |
 | Work format | Remote, on-site, full-time |
 
 ## What I Work With
@@ -71,10 +76,10 @@ My strongest area is backend development: application logic, SQL/database work, 
       <a href="https://github.com/07Rinat07/social-network"><strong>Solid Social Network</strong></a>
       <p>Social platform with feed, realtime chat, IPTV/radio features, and analytics dashboard.</p>
       <p>
-        <img src="https://img.shields.io/badge/Laravel-10-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 10" />
+        <img src="https://img.shields.io/badge/Laravel-13-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 13" />
         <img src="https://img.shields.io/badge/Vue-3.5-42b883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3.5" />
-        <img src="https://img.shields.io/badge/MySQL-8.4-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8.4" />
-        <img src="https://img.shields.io/badge/Reverb-1.7-0f172a?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Reverb" />
+        <img src="https://img.shields.io/badge/PHP-8.5-777bb4?style=flat-square&logo=php&logoColor=white" alt="PHP 8.5" />
+        <img src="https://img.shields.io/badge/Reverb-1.10-0f172a?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Reverb 1.10" />
       </p>
       <p>
         <a href="https://github.com/07Rinat07/social-network">
@@ -176,17 +181,12 @@ My strongest area is backend development: application logic, SQL/database work, 
 ## Contact
 
 <div align="center">
-  <a href="mailto:ura07srr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ura07srr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://t.me/develop_srr">
-    <img src="https://img.shields.io/badge/Telegram-@develop__srr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://github.com/07Rinat07">
-    <img src="https://img.shields.io/badge/GitHub-07Rinat07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<div align="center">
-  <sub>Uralsk, Kazakhstan</sub>
+  <h3>Ready to discuss your next backend or fullstack project</h3>
+  <p><strong>Fast response, clear delivery and production-ready support.</strong></p>
+  <p>
+    <a href="mailto:ura07srr@gmail.com"><img src="https://img.shields.io/badge/Email-ura07srr%40gmail.com-ff4d4f?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://t.me/develop_srr"><img src="https://img.shields.io/badge/Telegram-@develop__srr-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://github.com/07Rinat07"><img src="https://img.shields.io/badge/GitHub-07Rinat07-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+  <p><sub>Based in Uralsk, Kazakhstan • available remote / on-site / full-time</sub></p>
 </div>
