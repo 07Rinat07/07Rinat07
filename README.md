@@ -169,14 +169,16 @@ My strongest area is backend development: application logic, SQL/database work, 
 
 ## GitHub Activity
 
+- GitHub joined: **Apr 2022**
+- Focus: backend, APIs, integrations, production support
+
 <div align="center">
-  <p><strong>Joined GitHub:</strong> Apr 2022 — <em>backend, APIs, integrations, production support</em></p>
-  <p>
-    <a href="https://github.com/07Rinat07"><img src="https://img.shields.io/badge/View%20Profile-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-    <img src="https://img.shields.io/github/followers/07Rinat07?label=Followers&style=social" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/07Rinat07?label=Stars&style=flat-square&logo=github&logoColor=white" alt="Stars" />
-  </p>
-  <p><sub>For detailed activity charts visit the GitHub profile linked above.</sub></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=07Rinat07&theme=tokyonight" alt="GitHub profile summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=07Rinat07&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=07Rinat07&theme=tokyonight" alt="Most used languages" />
 </div>
 
 ## Contact
