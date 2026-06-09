@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&center=true&vCenter=true&width=780&lines=Laravel+%7C+Symfony+%7C+Yii2+%7C+Bitrix;REST+APIs,+admin+panels,+databases,+integrations;Reliable+web+systems+from+code+to+deployment" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&center=true&vCenter=true&width=820&lines=Backend-first+PHP:+Laravel+·+Symfony+·+Yii2;APIs+•+Admin+Dashboards+•+Integrations;Production+support+•+Docker+•+SQL+expertise" alt="Typing intro" />
 </div>
 
 ---
@@ -169,13 +169,19 @@ My strongest area is backend development: application logic, SQL/database work, 
 
 ## GitHub Activity
 
+- GitHub joined: **Apr 2022**
+- Focus: backend, APIs, integrations, production support
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=07Rinat07&theme=tokyonight" alt="GitHub profile summary" />
+  <img src="https://img.shields.io/badge/GitHub%20Joined-Apr%202022-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub joined Apr 2022" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=07Rinat07&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=07Rinat07&theme=tokyonight" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=07Rinat07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub contribution stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07Rinat07&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 ## Contact
