@@ -276,20 +276,18 @@ For me, a good change is not only "it works on my screen". It should be readable
 
 ## Languages
 
-| Language | Level |
-| --- | --- |
-| Kazakh | Native |
-| Russian | C2 |
-| English | B2 |
-
-## GitHub Activity
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=07Rinat07&theme=tokyo-night" alt="GitHub contribution activity graph" />
+  <img src="https://img.shields.io/badge/Kazakh-Native-0f766e?style=flat-square" alt="Kazakh — Native" />
+  <img src="https://img.shields.io/badge/Russian-C2-2563eb?style=flat-square" alt="Russian — C2" />
+  <img src="https://img.shields.io/badge/English-B2-c58a21?style=flat-square" alt="English — B2" />
 </div>
 
+## GitHub Engineering Snapshot
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=07Rinat07&theme=tokyonight" alt="GitHub contribution streak" />
+  <a href="https://github.com/07Rinat07?tab=repositories">
+    <img src="assets/github-dashboard.svg" width="100%" alt="Live GitHub engineering snapshot with projects, activity, technologies and recently updated repositories" />
+  </a>
 </div>
 
 ## Contact
