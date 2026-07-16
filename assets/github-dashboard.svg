@@ -134,16 +134,16 @@
 
     <g transform="translate(0 384)">
       <circle cx="666" cy="7" r="7" fill="#3776AB"/>
-      <text x="684" y="12" class="repo-title">GEOLOG_GASRATIO_Pixler</text>
-      <text x="1118" y="12" text-anchor="end" class="row-meta">Python · Jul 15, 2026</text>
-      <text x="666" y="38" class="repo-description">В разработке. Расширяемое desktop-приложение дл…</text>
+      <text x="684" y="12" class="repo-title">Gas-Ratio-pro</text>
+      <text x="1118" y="12" text-anchor="end" class="row-meta">Python · Jul 16, 2026</text>
+      <text x="666" y="38" class="repo-description">В активной разработке аналог PETREL. Gas Ratio&amp;…</text>
       <line x1="650" y1="80" x2="1122" y2="80" stroke="#ECECEF"/>
     </g>
     <g transform="translate(0 478)">
       <circle cx="666" cy="7" r="7" fill="#3776AB"/>
-      <text x="684" y="12" class="repo-title">Gas-Ratio-pro</text>
-      <text x="1118" y="12" text-anchor="end" class="row-meta">Python · Jul 14, 2026</text>
-      <text x="666" y="38" class="repo-description">В активной разработке аналог PETREL. Gas Ratio&amp;…</text>
+      <text x="684" y="12" class="repo-title">GEOLOG_GASRATIO_Pixler</text>
+      <text x="1118" y="12" text-anchor="end" class="row-meta">Python · Jul 15, 2026</text>
+      <text x="666" y="38" class="repo-description">В разработке. Расширяемое desktop-приложение дл…</text>
       <line x1="650" y1="80" x2="1122" y2="80" stroke="#ECECEF"/>
     </g>
     <g transform="translate(0 572)">
@@ -175,6 +175,6 @@
 
     </g>
 
-  <text x="40" y="998" class="footer">Generated from the GitHub API · Jul 15, 2026 · 12:56 UTC</text>
+  <text x="40" y="998" class="footer">Generated from the GitHub API · Jul 16, 2026 · 05:48 UTC</text>
   <text x="1160" y="998" text-anchor="end" class="footer">Auto-refreshed daily</text>
 </svg>
