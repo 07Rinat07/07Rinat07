@@ -139,7 +139,7 @@
     <g transform="translate(0 384)">
       <circle cx="666" cy="7" r="7" fill="#6D28D9"/>
       <text x="684" y="12" class="repo-title">GEOLOG_GASRATIO_Pixler</text>
-      <text x="1118" y="12" text-anchor="end" class="row-meta">Lasso · Jul 23, 2026</text>
+      <text x="1118" y="12" text-anchor="end" class="row-meta">Lasso · Jul 24, 2026</text>
       <text x="666" y="38" class="repo-description">В разработке. Расширяемое desktop-приложение дл…</text>
       <line x1="650" y1="80" x2="1122" y2="80" stroke="#ECECEF"/>
     </g>
@@ -179,6 +179,6 @@
 
     </g>
 
-  <text x="40" y="1050" class="footer">Generated from the GitHub API · Jul 23, 2026 · 06:09 UTC</text>
+  <text x="40" y="1050" class="footer">Generated from the GitHub API · Jul 24, 2026 · 06:03 UTC</text>
   <text x="1160" y="1050" text-anchor="end" class="footer">Auto-refreshed daily</text>
 </svg>
