@@ -51,14 +51,14 @@
       <rect width="262" height="154" rx="20" fill="#FFFFFF" stroke="#E4E4E7"/>
       <rect x="0" y="0" width="6" height="154" rx="3" fill="#6D28D9"/>
       <text x="24" y="38" class="eyebrow">PUBLIC PROJECTS</text>
-      <text x="24" y="92" class="metric">92</text>
+      <text x="24" y="92" class="metric">93</text>
       <text x="24" y="130" class="note">Owned and maintained repositories</text>
     </g>
     <g transform="translate(320 112)">
       <rect width="262" height="154" rx="20" fill="#FFFFFF" stroke="#E4E4E7"/>
       <rect x="0" y="0" width="6" height="154" rx="3" fill="#7C3AED"/>
       <text x="24" y="38" class="eyebrow">ACTIVE · 90 DAYS</text>
-      <text x="24" y="92" class="metric">7</text>
+      <text x="24" y="92" class="metric">8</text>
       <text x="24" y="130" class="note">Projects updated recently</text>
     </g>
     <g transform="translate(602 112)">
@@ -87,15 +87,15 @@
     <text x="66" y="392" class="row-title">PHP</text>
     <text x="485" y="392" text-anchor="end" class="row-meta">56 projects</text>
     <rect x="66" y="402" width="419" height="8" rx="4" fill="#F0F0F2"/>
-    <rect x="66" y="402" width="210" height="8" rx="4" fill="#777BB4"/>
+    <rect x="66" y="402" width="208" height="8" rx="4" fill="#777BB4"/>
     <text x="66" y="444" class="row-title">JavaScript</text>
     <text x="485" y="444" text-anchor="end" class="row-meta">14 projects</text>
     <rect x="66" y="454" width="419" height="8" rx="4" fill="#F0F0F2"/>
     <rect x="66" y="454" width="52" height="8" rx="4" fill="#D6B700"/>
     <text x="66" y="496" class="row-title">Python</text>
-    <text x="485" y="496" text-anchor="end" class="row-meta">6 projects</text>
+    <text x="485" y="496" text-anchor="end" class="row-meta">7 projects</text>
     <rect x="66" y="506" width="419" height="8" rx="4" fill="#F0F0F2"/>
-    <rect x="66" y="506" width="24" height="8" rx="4" fill="#3776AB"/>
+    <rect x="66" y="506" width="26" height="8" rx="4" fill="#3776AB"/>
     <text x="66" y="548" class="row-title">Vue</text>
     <text x="485" y="548" text-anchor="end" class="row-meta">4 projects</text>
     <rect x="66" y="558" width="419" height="8" rx="4" fill="#F0F0F2"/>
@@ -135,46 +135,46 @@
     <g transform="translate(0 384)">
       <circle cx="666" cy="7" r="7" fill="#3776AB"/>
       <text x="684" y="12" class="repo-title">GEOLOG_GASRATIO_Pixler</text>
-      <text x="1118" y="12" text-anchor="end" class="row-meta">Python · Jul 30, 2026</text>
+      <text x="1118" y="12" text-anchor="end" class="row-meta">Python · Jul 31, 2026</text>
       <text x="666" y="38" class="repo-description">В разработке. Расширяемое desktop-приложение дл…</text>
       <line x1="650" y1="80" x2="1122" y2="80" stroke="#ECECEF"/>
     </g>
     <g transform="translate(0 478)">
+      <circle cx="666" cy="7" r="7" fill="#3776AB"/>
+      <text x="684" y="12" class="repo-title">GeoKZ</text>
+      <text x="1118" y="12" text-anchor="end" class="row-meta">Python · Jul 30, 2026</text>
+      <text x="666" y="38" class="repo-description">Geology KZ Геологический умный справочник по ме…</text>
+      <line x1="650" y1="80" x2="1122" y2="80" stroke="#ECECEF"/>
+    </g>
+    <g transform="translate(0 572)">
       <circle cx="666" cy="7" r="7" fill="#3776AB"/>
       <text x="684" y="12" class="repo-title">Gas-Ratio-pro</text>
       <text x="1118" y="12" text-anchor="end" class="row-meta">Python · Jul 18, 2026</text>
       <text x="666" y="38" class="repo-description">В активной разработке аналог PETREL. Gas Ratio&amp;…</text>
       <line x1="650" y1="80" x2="1122" y2="80" stroke="#ECECEF"/>
     </g>
-    <g transform="translate(0 572)">
+    <g transform="translate(0 666)">
       <circle cx="666" cy="7" r="7" fill="#7F52FF"/>
       <text x="684" y="12" class="repo-title">iptv-tv-app</text>
       <text x="1118" y="12" text-anchor="end" class="row-meta">Kotlin · Jun 28, 2026</text>
       <text x="666" y="38" class="repo-description">Приложение в РАЗРАБОТКЕ. Пока адаптировал на ан…</text>
       <line x1="650" y1="80" x2="1122" y2="80" stroke="#ECECEF"/>
     </g>
-    <g transform="translate(0 666)">
+    <g transform="translate(0 760)">
       <circle cx="666" cy="7" r="7" fill="#E34F26"/>
       <text x="684" y="12" class="repo-title">univer_kaziitu</text>
       <text x="1118" y="12" text-anchor="end" class="row-meta">HTML · Jun 24, 2026</text>
       <text x="666" y="38" class="repo-description">Казахстанский Университет Иновационных и Телеко…</text>
       <line x1="650" y1="80" x2="1122" y2="80" stroke="#ECECEF"/>
     </g>
-    <g transform="translate(0 760)">
+    <g transform="translate(0 854)">
       <circle cx="666" cy="7" r="7" fill="#6D28D9"/>
       <text x="684" y="12" class="repo-title">space-dodger-deluxe</text>
       <text x="1118" y="12" text-anchor="end" class="row-meta">C++ · Jun 14, 2026</text>
       <text x="666" y="38" class="repo-description">В разработке.Аркадная игра на C++ (с использова…</text>
-      <line x1="650" y1="80" x2="1122" y2="80" stroke="#ECECEF"/>
-    </g>
-    <g transform="translate(0 854)">
-      <circle cx="666" cy="7" r="7" fill="#777BB4"/>
-      <text x="684" y="12" class="repo-title">parserYandexMap</text>
-      <text x="1118" y="12" text-anchor="end" class="row-meta">PHP · Jun 13, 2026</text>
-      <text x="666" y="38" class="repo-description">Тестовое задание: интеграция с Яндекс.Картами С…</text>
 
     </g>
 
-  <text x="40" y="998" class="footer">Generated from the GitHub API · Jul 30, 2026 · 05:51 UTC</text>
+  <text x="40" y="998" class="footer">Generated from the GitHub API · Jul 31, 2026 · 06:22 UTC</text>
   <text x="1160" y="998" text-anchor="end" class="footer">Auto-refreshed daily</text>
 </svg>
