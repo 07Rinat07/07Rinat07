@@ -19,16 +19,16 @@
 ## About Me / Обо мне
 
 **EN**
-I am Rinat Sarmuldin, a fullstack developer from Uralsk, Kazakhstan, with 4+ years of commercial web development experience. My strongest area is PHP backend development: application logic, databases, admin panels, REST APIs, integrations, debugging and deployment support.
+I am Rinat Sarmuldin, a fullstack developer from Uralsk, Kazakhstan. I have been working in web development since 2022, mainly with PHP backend: application logic, databases, admin panels, REST APIs, integrations, debugging and deployment support.
 
 I work with practical business systems where the important part is not only to make a page look correct, but also to keep the whole flow reliable: forms, validation, authorization, database records, admin workflows, API contracts, logs and regression checks after changes.
 
 **RU**
-Я Ринат Сармулдин, fullstack-разработчик из Уральска, Казахстан. У меня 4+ года коммерческого опыта в веб-разработке. Моя сильная сторона - PHP backend: логика приложения, базы данных, админ-панели, REST API, интеграции, отладка и сопровождение.
+Я Ринат Сармулдин, fullstack-разработчик из Уральска, Казахстан. В веб-разработке с 2022 года, в основном работаю с PHP backend: логикой приложения, базами данных, админ-панелями, REST API, интеграциями, отладкой и сопровождением.
 
 Я умею работать с существующими проектами: разобраться в структуре, найти реальную причину ошибки, внести аккуратные изменения и проверить основные сценарии, не переписывая лишнее.
 
-## What I Do Best
+## What I Work With
 
 - Build and maintain PHP web applications with Laravel, Symfony, Yii2 and Bitrix.
 - Design backend logic, REST APIs, admin panels, CRUD flows and integrations.
