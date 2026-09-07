@@ -58,7 +58,7 @@
       <rect width="262" height="154" rx="20" fill="#FFFFFF" stroke="#E4E4E7"/>
       <rect x="0" y="0" width="6" height="154" rx="3" fill="#7C3AED"/>
       <text x="24" y="38" class="eyebrow">ACTIVE · 90 DAYS</text>
-      <text x="24" y="92" class="metric">8</text>
+      <text x="24" y="92" class="metric">7</text>
       <text x="24" y="130" class="note">Projects updated recently</text>
     </g>
     <g transform="translate(602 112)">
@@ -175,6 +175,6 @@
 
     </g>
 
-  <text x="40" y="998" class="footer">Generated from the GitHub API · Sep 06, 2026 · 07:52 UTC</text>
+  <text x="40" y="998" class="footer">Generated from the GitHub API · Sep 07, 2026 · 08:14 UTC</text>
   <text x="1160" y="998" text-anchor="end" class="footer">Auto-refreshed daily</text>
 </svg>
